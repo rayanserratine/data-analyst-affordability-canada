@@ -45,24 +45,6 @@ Some insights revealed in the analysis:
 
 ---
 
-## 📁 Project Structure
-
-data-analyst-affordability-canada
-│
-├── data
-│ └── salary_rent_dataset.xlsx
-│
-├── dashboard
-│ └── affordability_dashboard.pbix
-│
-├── images
-│ └── dashboard_preview.png
-│
-└── README.md
-
-
----
-
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview](image.png)
