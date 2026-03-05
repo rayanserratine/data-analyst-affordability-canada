@@ -65,7 +65,7 @@ data-analyst-affordability-canada
 
 ## 📷 Dashboard Preview
 
-*(Insert dashboard screenshot here)*
+![Dashboard Preview](image.png)
 
 ---
 
